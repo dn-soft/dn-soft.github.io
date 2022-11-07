@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "route":"/*",
+      "serve":"/index.html"
+    }
+  ],
+  "platformErrorOverrides": [
+    {
+      "errorType": "NotFound",
+      "serve": "/error"
+    },
+    {
+      "errorType": "Unauthenticated",
+      "statusCode": "302",
+      "serve": "/login"
+    }
+  ]
+}
