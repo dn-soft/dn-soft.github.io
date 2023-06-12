@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "584475904644",
+    "firebase_url": "https://argong-2e803-default-rtdb.firebaseio.com",
+    "project_id": "argong-2e803",
+    "storage_bucket": "argong-2e803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584475904644:android:556fc33599ae83ac5c10d1",
+        "android_client_info": {
+          "package_name": "com.dnsoft.argong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584475904644-2obraj62ttoqe0scmms183mooo052lbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbaJI-vauYkrzvL2wRJH89Y_te7joZ2tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584475904644-2obraj62ttoqe0scmms183mooo052lbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584475904644-32krivdle8clbbqnr86tbin78sqj9ulp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dnsoft.argongthree",
+                "app_store_id": "1670252817"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584475904644:android:55143336f3a083545c10d1",
+        "android_client_info": {
+          "package_name": "com.dnsoft.argongthree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584475904644-m46ap24oum3t2tg9cug9tc6m3kme0epm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dnsoft.argongthree",
+            "certificate_hash": "a97e54438a772d16904b658cbf02656ef80531cb"
+          }
+        },
+        {
+          "client_id": "584475904644-2obraj62ttoqe0scmms183mooo052lbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbaJI-vauYkrzvL2wRJH89Y_te7joZ2tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584475904644-2obraj62ttoqe0scmms183mooo052lbr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "584475904644-32krivdle8clbbqnr86tbin78sqj9ulp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dnsoft.argongthree",
+                "app_store_id": "1670252817"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
