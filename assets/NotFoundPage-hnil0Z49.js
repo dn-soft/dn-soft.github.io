@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as n,F as a,a as e}from"./index-AeptQjzu.js";const s={name:"NotFoundPage"},c=e("div",null,[e("h1",null,"404 Page"),e("p",null,"Page not found")],-1),r=e("a",{href:"/"},"Go to home",-1);function _(l,d,u,p,f,i){return t(),n(a,null,[c,r],64)}const h=o(s,[["render",_]]);export{h as default};
